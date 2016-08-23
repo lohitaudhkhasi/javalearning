@@ -3,6 +3,7 @@ package com.chap1;
 import java.util.ArrayList;
 import java.util.List;
 
+//Addition of another comment 
 public class Example1 {
 
 	public static boolean isHeavy(Apple apple) {
