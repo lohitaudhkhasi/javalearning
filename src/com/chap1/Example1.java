@@ -13,9 +13,9 @@ public class Example1 {
 			return false;
 	}
 
+//Unnecessary commenting
 	/*
-	 * public static boolean isGreen(Apple apple) { return
-	 * "green".equalsIgnoreCase(apple.getColor()); }
+	 ** public static boolean isGreen(Apple apple) { return
 	 */
 
 	public static List<Apple> filterApple(List<Apple> appleList,
